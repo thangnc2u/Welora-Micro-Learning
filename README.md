@@ -146,9 +146,7 @@
                         Tính toán & Lưu lại
                     </button>
 
-                    <!-- Gemini API Button -->
-                    <button id="geminiAdviceBtn" class="w-full bg-purple-600 text-white font-semibold py-3 px-6 rounded-full shadow-md hover:bg-purple-700 transition-colors mt-4">
-                        
+           
             </section>
 
             <!-- 4. CHECK Section -->
